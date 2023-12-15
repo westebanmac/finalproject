@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title><br>
+    <link rel="stylesheet" href="styles/styles.css">
+</head>
+<body>
+
+    <a href="MyResume.html" id="home" target="_blank">Resume</a> |
+
+<div style="background-color:rgb(37, 164, 54) ;">
+    <img src="images/EaglesThrowbackLogo.png" alt="AJ Brown running with the ball" height="300" id="top">
+</div>
+    <h1>The Philadelphia Eagles</h1>
+
+
+<div style="background-color:rgb(37, 164, 54); color: rgb(198, 198, 198);">
+    <ol>
+        <li>Offensive Starters
+            <ul>
+                <li>QB: Jalen Hurts</li>
+                <li>WR1: AJ Brown</li>
+                <li>WR2: Devonta Smith</li>
+                <li>WR3: Julio Jones</li>
+                <li>RB: D'Andre Swift</li>
+                <li>TE: Dallas Goedert</li>
+                <li>LT: Jordan Mailata</li>
+                <li>LG: Landon Dickerson</li>
+                <li>C: Jason Kelce</li>
+                <li>RG: Cam Jurgens</li>
+                <li>RT: Lane Johnson</li><br>
+                <img src="images/AjBrownKelly.jpeg" alt="AJ Brown running with the ball" height="300">
+            </ul><br>
+        </li>
+</div>
+        <li>Defensive Starters 
+            <ul>
+                <li>DE: Josh Sweat</li>
+                <li>DT: Fletcher Cox</li>
+                <li>DT: Jordan Davis</li>
+                <li>DE: Brandon Graham</li>
+                <li>OLB: Haason Reddick</li>
+                <li>MLB: Zach Cunningham</li>
+                <li>MLB: Nicholas Morrow</li>
+                <li>CB: Darius Slay</li>
+                <li>CB: James Bradberry</li>
+                <li>FS: Reed Blankenship</li>
+                <li>SS: Kevin Byard</li><br>
+                <img src="images/SlayyyKelly.jpeg" alt="Darius Slay celebrating after and interception" height="300">
+            </ul><br>
+        </li>
+    <div style="background-color:rgb(37, 164, 54) ; color: rgb(198, 198, 198);">
+        <li>Coaches 
+            <ul>
+                <li>HC: Nick Sirianni</li>
+                <li>OC: Brian Johnson</li>
+                <li>DC: Sean Desai</li><br>
+                <img src="images/NickSirianni.webp" alt="Eagles head coach Nick Sirianni" height="300">
+            </ul>
+        <li>
+    </div>
+        </ol>
+
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/eoYf1XAx7SQ?si=uw4Bjm2LXhpz4Scq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <br><br><br><br><br><br>
+
+    <div class='tableauPlaceholder' id='viz1702606950193' style='position: relative'><noscript><a href='#'><img alt='Philadelphia Eagles ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ph&#47;PhiladelphiaEaglesDashboard&#47;PhiladelphiaEagles&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PhiladelphiaEaglesDashboard&#47;PhiladelphiaEagles' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ph&#47;PhiladelphiaEaglesDashboard&#47;PhiladelphiaEagles&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1702606950193');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1020px';vizElement.style.height='652px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+<div style="color: rgb(198, 198, 198); background-color: rgb(37, 164, 54);">
+    <a href="#top">Back To Top</a>
+</div>
+
+</body>
+</html>
